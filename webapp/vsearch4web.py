@@ -16,7 +16,7 @@ def hello() -> '302':
 
 app.config['dbconfig'] = {'host' : 'localhost',
 							'user' : 'root',
-							'password' : 'Rmwlrkxsp33$',
+							'password' : '1234',
 							'database' : 'vsearchlogDB', }
 							
 @app.route('/login')
